@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println("dsffds");
 	System.out.println("222222");
 	System.out.println("11111");
+	System.err.println("bbbbbb");
 }
 }
